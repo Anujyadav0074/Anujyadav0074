@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Anuj%20Yadav&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20Cyber%20Security%20%7C%20GDG%20Tech%20Lead&descAlignY=51&descAlign=62" width="100%"/>
+  <h1 align="center">👨‍💻 Builder & Defender</h1>
 </div>
-
-<h1 align="center">👨‍💻 Builder & Defender</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anuj-yadav-887093262/">
@@ -22,7 +21,7 @@
 I am a **B.Tech 4th Year Student (CSE)** and the **Tech Lead** at **GDG (Google Developer Groups)**.
 I don't just write code; I understand the entire lifecycle of an application. My expertise lies in **Full Stack Development** (building robust applications) and **Cyber Security** (hardening them against threats).
 
-> *"I seek something genuine."*
+> *"I want something genuine."*
 > — **Hikigaya Hachiman**
 
 * **Philosophy:** "To secure a system, you must know how to build it."
@@ -32,10 +31,10 @@ I don't just write code; I understand the entire lifecycle of an application. My
 
 | **Domain** | **Stack & Tools** |
 | :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |
-| **Backend & DB** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) |
-| **Security** | ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white) ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?logo=burpsuite&logoColor=white) ![Kali](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kalilinux&logoColor=white) |
-| **Core** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
+| **Frontend Dev** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) |
+| **Backend & DB** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) |
+| **Security Ops** | ![Nmap](https://img.shields.io/badge/-Nmap-000000?logo=nmap&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white) ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?logo=burpsuite&logoColor=white) ![Kali](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kalilinux&logoColor=white) |
+| **Core & Tools** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) |
 
 ### 💼 Experience & Projects
 * **GDG Tech Lead:** Organizing workshops and leading technical teams.
@@ -47,7 +46,8 @@ I don't just write code; I understand the entire lifecycle of an application. My
 ### ⚡ Philosophy & Interests
 > *"Admiration is the furthest thing from understanding."*
 
-* **The Learning Loop:** *"It learns by shape-shifting into what it stimulates."* I actively help others debug their code because **their** unique problems force me to research solutions outside my own experience. Solving your problem allows me to "acquire" that knowledge and evolve.
+I approach technology with a mindset of continuous evolution.
+* **The Learning Loop:** *"It learns by shape-shifting into what it stimulates."* I frequently jump into solving **unfamiliar problems**—whether in code, logic, or life. I do this because facing challenges I haven't seen before is the only way to truly understand how things work.
 * **R&D:** I research Android Kernels/Custom ROMs and analyze Geopolitics (Middle East/India).
 * **Downtime:** Big fan of **Anime** and getting enough **Sleep** to debug effectively 💤.
 
