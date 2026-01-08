@@ -25,6 +25,9 @@ I don't just write code; I understand the entire lifecycle of an application. My
 > *"I seek something genuine."*
 > — **Hikigaya Hachiman**
 
+* **Philosophy:** "To secure a system, you must know how to build it."
+* **Current Focus:** Bridging the gap between Development (MERN) and Security Operations.
+
 ### 🛠️ Technical Arsenal
 
 | **Domain** | **Stack & Tools** |
@@ -44,10 +47,9 @@ I don't just write code; I understand the entire lifecycle of an application. My
 ### ⚡ Philosophy & Interests
 > *"Admiration is the furthest thing from understanding."*
 
-I approach technology with a mindset of continuous evolution.
-* **The Learning Loop:** *"It learns by shape-shifting into what it stimulates."* I aggressively help others debug their code because **your unique error** is a form of data I haven't experienced yet. Solving your problem allows me to "acquire" that knowledge and evolve my own skills.
-* **Research:** I enjoy experimenting with **Android Kernels & Custom ROMs** and analyzing **Geopolitics** (Middle East/India).
-* **Recharging:** When the work is done, I retreat to watch **Anime** and **Sleep** to restore the system.
+* **The Learning Loop:** *"It learns by shape-shifting into what it stimulates."* I actively help others debug their code because **their** unique problems force me to research solutions outside my own experience. Solving your problem allows me to "acquire" that knowledge and evolve.
+* **R&D:** I research Android Kernels/Custom ROMs and analyze Geopolitics (Middle East/India).
+* **Downtime:** Big fan of **Anime** and getting enough **Sleep** to debug effectively 💤.
 
 <div align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer"/>
