@@ -48,7 +48,7 @@ I don't just write code; I understand the entire lifecycle of an application. My
 
 I approach technology with a mindset of continuous evolution.
 * **The Learning Loop:** *"It learns by shape-shifting into what it stimulates."* I frequently jump into solving **unfamiliar problems**—whether in code, logic, or life. I do this because facing challenges I haven't seen before is the only way to truly understand how things work.
-* **R&D:** I research Android Kernels/Custom ROMs and analyze Geopolitics (Middle East/India).
+* **R&D:** I research Android Kernels/Custom ROMs.
 * **Downtime:** Big fan of **Anime** and getting enough **Sleep** to debug effectively 💤.
 
 <div align="center">
