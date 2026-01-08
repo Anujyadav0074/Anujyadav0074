@@ -47,7 +47,7 @@ I don't just write code; I understand the entire lifecycle of an application. My
 > *"Admiration is the furthest thing from understanding."*
 
 I approach technology with a mindset of continuous evolution.
-* **The Learning Loop:** *"It learns by shape-shifting into what it stimulates."* I actively help others debug their code because **their** unique problems force me to research solutions outside my own experience. Solving your problem allows me to "acquire" that knowledge and evolve my own skills.
+* **The Learning Loop:** *"It learns by shape-shifting into what it stimulates."* I frequently jump into solving **unfamiliar problems**—whether in code, logic, or life. I do this because facing challenges I haven't seen before is the only way to truly understand how things work.
 * **R&D:** I research Android Kernels/Custom ROMs and analyze Geopolitics (Middle East/India).
 * **Downtime:** Big fan of **Anime** and getting enough **Sleep** to debug effectively 💤.
 
