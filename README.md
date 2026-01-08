@@ -48,7 +48,6 @@ I am a **B.Tech 4th Year Student (CSE)** at **IEC College of Engineering and Tec
 ### ⚡ Research & Interests
 * **Android R&D:** I research Android Kernels and flash Custom ROMs to test device limits.
 * **Geopolitics:** I actively track and analyze geopolitical events (Middle East & Indian Politics).
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anujyadav0074&show_icons=true&theme=dracula&hide_border=true&cache_bust=1" height="180" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Anujyadav0074&theme=radical&no-frame=true&column=4" />
 </div>
