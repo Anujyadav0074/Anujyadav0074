@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Anuj%20Yadav&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20Cyber%20Security%20%7C%20GDG%20Tech%20Lead&descAlignY=51&descAlign=62" width="100%"/>
+  <h1 align="center">👨‍💻 Builder & Defender</h1>
 </div>
-
-<h1 align="center">👨‍💻 Builder & Defender</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anuj-yadav-887093262/">
@@ -22,7 +21,7 @@
 I am a **B.Tech 4th Year Student (CSE)** and the **Tech Lead** at **GDG (Google Developer Groups)**.
 I don't just write code; I understand the entire lifecycle of an application. My expertise lies in **Full Stack Development** (building robust applications) and **Cyber Security** (hardening them against threats).
 
-> *"I seek something genuine."*
+> *"I want something genuine."*
 > — **Hikigaya Hachiman**
 
 * **Philosophy:** "To secure a system, you must know how to build it."
@@ -47,7 +46,8 @@ I don't just write code; I understand the entire lifecycle of an application. My
 ### ⚡ Philosophy & Interests
 > *"Admiration is the furthest thing from understanding."*
 
-* **The Learning Loop:** *"It learns by shape-shifting into what it stimulates."* I actively help others debug their code because **their** unique problems force me to research solutions outside my own experience. Solving your problem allows me to "acquire" that knowledge and evolve.
+I approach technology with a mindset of continuous evolution.
+* **The Learning Loop:** *"It learns by shape-shifting into what it stimulates."* I actively help others debug their code because **their** unique problems force me to research solutions outside my own experience. Solving your problem allows me to "acquire" that knowledge and evolve my own skills.
 * **R&D:** I research Android Kernels/Custom ROMs and analyze Geopolitics (Middle East/India).
 * **Downtime:** Big fan of **Anime** and getting enough **Sleep** to debug effectively 💤.
 
