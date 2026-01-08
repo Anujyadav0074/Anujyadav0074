@@ -52,5 +52,5 @@ I approach technology with a mindset of continuous evolution.
 * **Downtime:** Big fan of **Anime** and getting enough **Sleep** to debug effectively 💤.
 
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
 </div>
